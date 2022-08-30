@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Neet Study Materials</string>
+    <string name="todo"/>
+    <string name="royal_educare">Royal Educare</string>
+    <string name="neet_study_materials">Neet Study Materials</string>
+    <string name="profile">Pr0file</string>
+    <string name="notification">Notification</string>
+    <string name="update">Update</string>
+    <string name="logout">Logout</string>
+    <string name="share">Share</string>
+    <string name="rating">Rating</string>
+    <string name="about_us">About Us</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>
